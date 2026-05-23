@@ -2,11 +2,29 @@
 
 # YURM | KaiNan YU
 
-### `Network Security Engineer` · `Python Developer` · `AI Explorer`
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-FCC624?logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/Security-Pentest-red?logo=kali-linux&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Agent-9CF?logo=openai&logoColor=white)
+
+### `Network Security Engineer` · `Python Developer` · `AI Security Explorer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&random=false&width=600&lines=%E2%9A%A1+Penetration+Testing+%7C+Vulnerability+Analysis;🤖+AI+Agent+%7C+Large+Language+Models;🐧+Linux+%7C+Network+Automation;🛡️+Offensive+Security+%7C+CTF" alt="Typing SVG" />
 
 </div>
+
+---
+
+> 🇨🇳 [中文版](#关于我) | English below
+
+## 📑 Table of Contents
+
+- [About Me](#-about-me)
+- [Tech Arsenal](#%EF%B8%8F-tech-arsenal)
+- [Featured Projects](#-featured-projects)
+- [GitHub Stats](#-github-stats)
+- [Achievements](#-achievements)
+- [Contact](#-contact)
 
 ---
 
@@ -19,9 +37,9 @@ $ whoami
 🎓 网络工程 @ 广州应用科技学院（2026届）
 📍 广东肇庆
 🔍 专注方向：网络安全 × AI Agent
-🎯 目标：用 AI 重新定义安全测试的未来
+🎯 目标：探索 AI 赋能网络安全自动化的未来
 
-> 我相信最好的安全工程师，是用自动化武装到牙齿的工程师。
+> *"The best defense is a good offense — automated."*
 
 ---
 
@@ -78,7 +96,7 @@ $ ls ~/projects --sort=impact
 <tr>
 <td width="50%">
 
-### 🎯 AutoPen
+### 🎯 [AutoPen](https://github.com/RM3836/security-toolkit/tree/main/day7_advanced_B_%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E6%A1%86%E6%9E%B6)
 **自动化渗透测试框架**
 ```
 target → recon → scan → vuln → exploit → report
@@ -90,7 +108,7 @@ target → recon → scan → vuln → exploit → report
 </td>
 <td width="50%">
 
-### 🍯 Honeypot System
+### 🍯 [Honeypot System](https://github.com/RM3836/security-toolkit/tree/main/day7_advanced_C_%E8%9C%9C%E7%BD%90%E7%B3%BB%E7%BB%9F)
 **蜜罐 + 威胁情报系统**
 ```
 attacker → [SSH trap] → log → profile
@@ -104,7 +122,7 @@ attacker → [HTTP trap] → log → profile
 <tr>
 <td>
 
-### 🛡️ Web Security Dashboard
+### 🛡️ [Web Security Dashboard](https://github.com/RM3836/security-toolkit/tree/main/day7_advanced_A_Web%E5%AE%89%E5%85%A8%E4%BB%AA%E8%A1%A8%E7%9B%98)
 **实时安全监控平台**
 端口扫描 + Web漏洞扫描 + 日志分析
 WebSocket实时告警 · 暗色主题
@@ -155,14 +173,19 @@ $ cat /etc/contact
 ```
 
 📧 steam3836@foxmail.com
-🐙 github.com/RM3836
+🐙 [github.com/RM3836](https://github.com/RM3836)
+
+---
+
+## ⚠️ Ethics Statement
+
+> 所有安全工具仅供授权测试和教育目的使用。
+> All security tools are for authorized testing and educational purposes only.
 
 ---
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RM3836&color=blue&style=flat-square)
-
-*"The best defense is a good offense — automated."*
 
 </div>
